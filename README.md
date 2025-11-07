@@ -4,4 +4,4 @@ The well-known Intelligent Driver Model (IDM) proposed by Martin Treiber et al (
 ## Version
 **v1:** A preliminary framework that allows for further extension.
 
-<img src="fig/v1.png" alt="Diagram" width="500">
+<img src="v1/txplot.png" alt="Diagram" width="500">
